@@ -17,6 +17,29 @@ The project structure includes the following files:
 - confusion_matrix_valid.txt : text file has information about validation calssification output and a validation confusion matrix
 - Output.ipynb : Jupyter Notebook file containing code for making a prediction output
 
+
+## Data
+
+### Description
+
+Explain the dataset used in this project. Discuss its source, format, and any preprocessing steps performed.
+
+### Features
+
+Look at the word file(Phishing Websites Features) , it has all information about the feature and how we can descide if this phishing or not
+
+### Data Files
+
+- `final_data_phishing.csv`: Training csv file (The file that used in my model as a training file)
+- `final_data_old.csv`: validation csv file (The file that used in my model as a validation file)
+- phishing.arff : the main arff data file and i convert it into training (csv) later
+- old.arff : the main arff data file and i convert it into validation (csv) later
+- old.csv : Validation data before convert it's values into binaries
+- phishing.csv :  Training data before convert it's values into binaries
+
+
+
+
 ## Requirements
 
 To run the provided Jupyter Notebooks, make sure you have the following libraries installed:
