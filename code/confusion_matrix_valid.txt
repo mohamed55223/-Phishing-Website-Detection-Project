@@ -1,0 +1,14 @@
+Confusion Matrix - Validation Dataset:
+[[  99 1263]
+ [ 985  109]]
+
+Classification Report - Validation Dataset:
+              precision    recall  f1-score   support
+
+          -1       0.09      0.07      0.08      1362
+           1       0.08      0.10      0.09      1094
+
+    accuracy                           0.08      2456
+   macro avg       0.09      0.09      0.08      2456
+weighted avg       0.09      0.08      0.08      2456
+
