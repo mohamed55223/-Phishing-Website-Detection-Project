@@ -74,5 +74,7 @@ import joblib
 loaded_model = joblib.load('First_Version.joblib')
 
 ## Results
-The project achieves an accuracy of 96% on the Training dataset 
-The project achieves an accuracy of 87% on the validation dataset. Visualizations include a confusion matrix and feature importance.
+The project achieves an accuracy of 96% on the Training dataset ,
+
+The project achieves an accuracy of 87% on the validation dataset. 
+Visualizations include a confusion matrix and feature importance.
